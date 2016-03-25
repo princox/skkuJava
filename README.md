@@ -1,1 +1,3 @@
 # skkuJava
+
+JG = JavaGrammar
